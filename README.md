@@ -1,7 +1,7 @@
 # angelou
 creating a poetry forum website with recommendation systems, etc
 
-# Main Competitor : !All Poetry[https://allpoetry.com/?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X0Lm-uBTEnSJ91lMEHLToyQRDZIj9CXxXsG1iShAGTScx0tV6O3O_0aAs42EALw_wcB]
+# Main Competitor : [All Poetry](https://allpoetry.com/?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X0Lm-uBTEnSJ91lMEHLToyQRDZIj9CXxXsG1iShAGTScx0tV6O3O_0aAs42EALw_wcB)
 Their main features:
     - User login/password
     - Reading poems
